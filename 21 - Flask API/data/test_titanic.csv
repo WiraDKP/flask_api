@@ -1,0 +1,21 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+880,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,83.1583,C50,C
+887,2,"Montvila, Rev. Juozas",male,27.0,0,0,211536,13.0,,S
+394,1,"Newell, Miss. Marjorie",female,23.0,1,0,35273,113.275,D36,C
+503,3,"O'Sullivan, Miss. Bridget Mary",female,,0,0,330909,7.6292,,Q
+772,3,"Jensen, Mr. Niels Peder",male,48.0,0,0,350047,7.8542,,S
+160,3,"Sage, Master. Thomas Henry",male,,8,2,CA. 2343,69.55,,S
+480,3,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,,S
+126,3,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,11.2417,,C
+58,3,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,,C
+324,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,248738,29.0,,S
+119,1,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,B58 B60,C
+152,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,C2,S
+658,3,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,15.5,,Q
+465,3,"Maisner, Mr. Simon",male,,0,0,A/S 2816,8.05,,S
+354,3,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,349237,17.8,,S
+529,3,"Salonen, Mr. Johan Werner",male,39.0,0,0,3101296,7.925,,S
+48,3,"O'Driscoll, Miss. Bridget",female,,0,0,14311,7.75,,Q
+70,3,"Kink, Mr. Vincenz",male,26.0,2,0,315151,8.6625,,S
+433,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,SC/AH 3085,26.0,,S
+597,2,"Leitch, Miss. Jessie Wills",female,,0,0,248727,33.0,,S
