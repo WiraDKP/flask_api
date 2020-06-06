@@ -2,7 +2,7 @@ import subprocess
 
 req = {
     "python", "tqdm", "nb_conda_kernels", "pip", "ipython", "numpy", "scipy", "pandas", 
-    "scikit-learn", "ipywidgets", "flask", "luwiji", "flask-cors", "jcopml"
+    "scikit-learn", "ipywidgets", "flask", "luwiji", "flask-cors", "jcopml", "requests"
 }
 env_name = "jcop_flask"
 working_folder = "flask_api"
