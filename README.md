@@ -1,14 +1,12 @@
-# Recommendation System by J.COp
-Note: Ini adalah **part ke lima** dari belajar dasar-dasar machine learning dari nol.
-
-Setelah kita selesai mempelajari [Course 7](https://www.github.com/wiradkp/unsupervised_learning). Sekarang kita masuk ke Course 8, yaitu sistem rekomendasi.
+# Flask API for Beginner by J.COp
+Note: Ini adalah materi tambahan dari belajar dasar-dasar machine learning dari nol.
 
 # Starter Guide
 ## Step 1: Download materi
-- Klik disini untuk [Download ZIP](https://codeload.github.com/WiraDKP/recommendation_system/zip/master), atau
+- Klik disini untuk [Download ZIP](https://codeload.github.com/WiraDKP/flask_api/zip/master), atau
 - Bagi yang familiar dengan git, boleh menggunakan clone
     ```
-    git clone https://github.com/WiraDKP/recommendation_system.git
+    git clone https://github.com/WiraDKP/flask_api.git
     ```
 
 ## Step 2: Instalasi Miniconda
@@ -60,11 +58,11 @@ Setelah kita selesai mempelajari [Course 7](https://www.github.com/wiradkp/unsup
 ## Step 4: Instalasi Environment
 - Change directory `cd` ke folder kerja ini
     ```
-    cd recommendation_system/
+    cd flask_api/
     ```
-- Jalankan command ini untuk menginstall environment `jcop_recsys`
+- Jalankan command ini untuk menginstall environment `jcop_flask`
     ```
-    conda env create -f env_jcop_recsys.yml
+    conda env create -f env_jcop_flask.yml
     ```
 
 ## Step 5: Memastikan environment terinstall dengan baik
@@ -76,7 +74,7 @@ Setelah kita selesai mempelajari [Course 7](https://www.github.com/wiradkp/unsup
     ```
     ✓ jupyter telah terinstall dengan baik
     ✓ nb_conda_kernels telah terinstall dengan baik
-    ✓ Environment jcop_recsys terdeteksi
-    ✓ Package telah terinstall dengan baik di dalam environment jcop_recsys
+    ✓ Environment jcop_flask terdeteksi
+    ✓ Package telah terinstall dengan baik di dalam environment jcop_flask
     ✓ Instalasi berjalan dengan baik. Selamat belajar!
     ```
